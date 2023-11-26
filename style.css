@@ -1,23 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
 body {
 	color: #333;
-	font-family: "Poppins";
+	font-family: "Poppins", sans-serif;
 	line-height: 1.5;
 	max-width: 720px;
 	margin: auto;
 	padding: 1em;
 }
 
-#profile_pic {
-	float: right;
-	width: 130px;
-}
-
 h1, h2 {
 	color: #000;
-	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Cambria, Georgia, serif;
-	font-weight: normal;
+	font-family: "Poppins";
+	font-weight: bold;
 }
 
 h1 {
@@ -48,7 +43,7 @@ li {
 }
 
 a {
-	color: green;
+	color: blue;
 	text-decoration: none;
 }
 
@@ -57,7 +52,7 @@ a:active, a:focus, a:hover {
 }
 
 a:visited {
-	color: green;
+	color: purple;
 }
 
 u {

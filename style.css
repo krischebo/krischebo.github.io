@@ -7,11 +7,11 @@ body {
 	max-width: 720px;
 	margin: auto;
 	padding: 1em;
-    background-color: rgb(255, 246, 214);
+    background-color:#ECECEC;
 }
 
 h1, h2 {
-	color: #000;
+	color: #283618;
 	font-family: "Poppins";
 	font-weight: bold;
 }
@@ -31,6 +31,7 @@ h2 {
 
 h3 {
 	font-weight: normal;
+	color: #283618;
 }
 
 th {
@@ -44,7 +45,7 @@ li {
 }
 
 a {
-	color: rgb(52, 82, 61);
+	color: #E07A5F;
 	text-decoration: none;
 }
 
@@ -53,7 +54,7 @@ a:active, a:focus, a:hover {
 }
 
 a:visited {
-	color: purple;
+	color: #8B6212;
 }
 
 u {

@@ -7,7 +7,7 @@ body {
 	max-width: 960px;
 	margin: auto;
 	padding: 1cm;
-    background-color:#ebebeb;
+    background-color:hsl(0, 0%, 100%);
 }
 
 h1, h2 {

@@ -7,58 +7,70 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[2-page CV here](C:\Users\krish\Desktop\Repositories\portfolio-website\chebolu.github.io\files\Research_Resume__Krishna_Chebolu.pdf)
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=======
+* M.S. Applied Mathematics, University of Missouri-Columbia, 2026 (expected)
+* B.S. Mathematics, Truman State University (TSU), 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer Geometry Initiative, Massachusetts Institute of Technology**, _Upcoming_ \
+**Fellow** | Boston, Massachusetts, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Bolton Lab, Washington University in St. Louis**, _Present_ \
+**Research Intern** | St. Louis, Missouri, USA
+  * Involved in a project relating to identifying various Clonal Hematopoiesis biomarkers in genome sequences.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Oklahoma Bombers Financial Operations, The Boeing Company**, _Summer 2022_ \
+**Finance Intern** | Oklahoma City, Oklahoma, USA
+  * Optimized B1, B2, B52, ALCM, \& Multiplatform aircraft initiatives by restructuring data for 60+ spending plans.
+  * Filled knowledge gaps in 20+ reports and spending plans by seeking out Points of Contact and obtaining explanations.
+  * Saved ~100 hours of company time and improved efficiency in generating spending plan reports.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Phantom Works Estimating Department, The Boeing Company**, _Summer & Fall 2021_ \
+**Finance Data Analysis Intern** | St. Louis, Missouri, USA
+  * Conducted a comprehensive regression and sensitivity analysis on 18 Cost-Estimating Relationships (CERs).
+  * Boosted accuracy by over 20\% on average by generating 60-70 alternates; 3 CERs had a 50\% boost.
+  * Synthesized and presented findings to management for further research– continued by full-time employees.
+
+* **Residence Life, Truman State University**, _2022 - 2024_ 
+  * **Assistant Hall Director** | Kirksville, MO, USA
+    * Oversaw the dorm reception desk, directing 6000+ packages annually and supervising 24 desk workers.
+    * Mentored dorm RAs, aiding their professional development and assisting in handling resident concerns and conflicts.
+    * Managed all facets of the residence hall, from general student welfare to building-wide facilities concerns.
+  * **Resident Advisor** | Kirksville, MO, USA
+    * Cultivated relationships and fostered growth amongst 50+ university students through study groups and programming.
+    * Directed programs on safer drinking practices, time management, and interrupting oppression for 50+ students.
   
-Talks
+Awards & Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **2024**
+  * Symposium on Geometry Processing Travel Grant, Massachusetts Institute of Technology
+  * Graduation Speaker for the Center for Diversity \& Inclusion, TSU
+* **2023**
+  * Bulldog B.I.T.E. Business Pitch Competition 2nd Place Winner, TSU
+  * Outstanding Residence Leadership for Exceptional Service to the University Community, TSU
+  * Top Presenter, University of Northern Iowa
+* **2022**
+  * The Boeing Scholarship for Mathematics, Statistics, and Computer Science, TSU
+* **2021**
+  * The Boeing Scholarship for Mathematics and Computer Science, TSU
+  * Dr. Susan LaGrassa Scholarship for Mathematics, TSU 
+* **2020**
+  * President's Honorary Scholarship for Full Tuition, TSU
+
+* **Recurring**
+  - __2020 - 2024__ President's List for Academic Excellence, TSU
+  - __2021 - 2023__ Successful Participation in the Consortium for Mathematics and its Applications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+- **Phi Beta Kappa**: Nominated inductee, _2024 - present_
+- **American Mathematical Society**: Sponsored member, _2023 - present_
+- **South Asian Student Union**: Founding President and Treasurer, _2023 - 2024_
+
+Teaching 
+======
+None yet, but I will soon!

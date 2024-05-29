@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[2-page CV here](C:/Users/krish/Desktop/Repositories/portfolio-website/chebolu.github.io/files/Research_Resume__Krishna_Chebolu.pdf)
+[2-page CV here](files/Research_Resume__Krishna_Chebolu.pdf)
 
 Education
 =======

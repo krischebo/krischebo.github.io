@@ -18,9 +18,6 @@
 @import "reset";
 @import "base";
 
-// Add this line to import the selected skin
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-
 @import "utilities";
 @import "animations";
 @import "tables";

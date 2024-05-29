@@ -12,9 +12,9 @@ title                    : "Krishna's website"
 title_separator          : "-"
 name                     : &name "Krishna Chebolu"
 description              : &description "personal description"
-url                      : https://chebolu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://krischebo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "krischebo/chebolu.github.io"
+repository               : "krischebo/krischebo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "Math & CS research enthusiast"
   location         : "St. Louis, Missouri, USA"
   employer         : 
-  uri              : chebolu.github.io
+  uri              : krischebo.github.io
   email            : "kris.chebolu@gmail.com" 
 
   # Academic websites

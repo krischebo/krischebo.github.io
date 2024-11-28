@@ -5,7 +5,7 @@ permalink: /publication/capstone-2024
 excerpt: 'A literature review and primer on nonlinear time series analysis.'
 date: 2023-11-28
 venue: 
-paperurl: 'C:\Users\krish\Desktop\Repositories\portfolio-website\chebolu.github.io\files\499__Captsone_Paper__Krishna_Chebolu.pdf'
+paperurl: '/files/499__Captsone_Paper__Krishna_Chebolu.pdf'
 citation: 
 ---
 
